@@ -1,0 +1,6 @@
+@сайт_ef_HostAddress = http://localhost:5188
+
+GET {{сайт_ef_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
